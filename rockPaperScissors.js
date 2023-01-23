@@ -46,4 +46,4 @@ function rockPaperScissors(playerTurn) {
 
 }
 
-rockPaperScissors('s')
+rockPaperScissors();
