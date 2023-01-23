@@ -38,7 +38,6 @@ function rockPaperScissors(playerTurn) {
         (playerTurn === paper && computerMove === scissors) ||
         (playerTurn === scissors && computerMove === rock)) {
         console.log('You lost!!');
-        lostCount++;
     } else if ((playerTurn === rock && computerMove === rock) ||
         (playerTurn === paper && computerMove === paper) ||
         (playerTurn === scissors && computerMove === scissors)) {
