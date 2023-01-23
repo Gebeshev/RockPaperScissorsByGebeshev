@@ -30,8 +30,6 @@ function rockPaperScissors(playerTurn) {
         console.log(`The computer chose ${computerMove}.`);
     }
 
-    let lostCount = 0;
-
     if ((playerTurn === rock && computerMove === scissors) ||
         (playerTurn === paper && computerMove === rock) ||
         (playerTurn === scissors && computerMove === paper)) {
