@@ -3,7 +3,7 @@
 ![BCI_e coli_RPS_primary_](https://user-images.githubusercontent.com/113712477/213999849-62394622-4080-4198-8603-e7054de25664.png)
 
 
-                                                     ***THE RULE OF THE GAME***
+                                                ***THE RULE OF THE GAME***
                                                     
 The rock paper scissors is simple **two players game** where you and your oponent (the computer) chose one of three options: 'Rock' , 'Paper' or 'Scissors'. 
 
