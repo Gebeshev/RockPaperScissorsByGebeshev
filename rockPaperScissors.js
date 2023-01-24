@@ -38,12 +38,10 @@ function rockPaperScissors(playerTurn) {
         (playerTurn === paper && computerMove === scissors) ||
         (playerTurn === scissors && computerMove === rock)) {
         console.log('You lost!!');
-    } else if ((playerTurn === rock && computerMove === rock) ||
-        (playerTurn === paper && computerMove === paper) ||
-        (playerTurn === scissors && computerMove === scissors)) {
+    } else {
         console.log('Draw game!!')
     }
 
 }
 
-rockPaperScissors();
+rockPaperScissors('r');
